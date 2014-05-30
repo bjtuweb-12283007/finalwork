@@ -1,0 +1,49 @@
+#carousel-example-generic{
+	width:400px;
+	height:260px;
+	position:absolute;
+	left:50px;
+}
+
+.mulu{
+	position:absolute;
+	left:460px;
+	bottom:320px;
+}
+
+.group{
+	position:absolute;
+	left:860px;
+	bottom:300px;
+}
+
+.article{
+	position:absolute;
+	top:450px;
+}
+
+#accordion{
+	position:absolute;
+	top:520px;
+	left:50px;
+	width:600px;
+}
+
+.fatie{
+	position:absolute;
+	left:870px;
+	top:450px;
+}
+
+.list-group{
+	position:absolute;
+	top:520px;
+	left:860px;
+	width:300px;	
+}
+
+.fa{
+	position:absolute;
+	left:1130px;
+	bottom:570px;
+}
